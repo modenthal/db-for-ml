@@ -1,0 +1,6 @@
+# packages for lambda functions
+flake8
+crhelper
+boto3
+pathlib
+datetime
